@@ -1,0 +1,9 @@
+<?php
+
+/*
+ToDo: Add some descritption :)
+*/
+
+$input_file = "Foo.xml";
+
+?>
